@@ -1,0 +1,48 @@
+job_title_keywords:
+  - "Human Resources"
+  - "HR Generalist"
+  - "HR Coordinator"
+  - "Talent Acquisition Specialist"
+  - "People Operations"
+
+location_preference:
+  type: "hybrid"
+  base_city: "Dallas, TX"
+  nearby_zip_codes:
+    - "76210"
+    - "75065"
+    - "75067"
+    - "75077"
+    - "76205"
+    - "76208"
+  radius_miles: 25
+
+resume_path: "./resumes/base_resume.pdf"
+cover_letter_template_path: "./cover_letters/base_template.txt"
+
+skills:
+  - "Recruitment"
+  - "HRIS"
+  - "Talent Acquisition"
+  - "Onboarding"
+  - "Employee Engagement"
+
+certifications: []
+
+preferred_salary_range: "$60,000 - $75,000"
+years_experience: 7
+
+apply_platforms:
+  - "Indeed"
+  - "LinkedIn"
+  - "Dice"
+  - "ZipRecruiter"
+  - "Fairygodboss"
+  - "PowerToFly"
+  - "InHerSight"
+  - "SHRM"
+
+auto_apply_enabled: true
+max_applications_per_day: 10
+retry_failed_applications: true
+
